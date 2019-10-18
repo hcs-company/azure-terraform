@@ -1,6 +1,8 @@
 variable "admin_username" {
   default = "adminuser"
 }
+
+variable "admin_password" {}
 #variable "admin_password" {
 #  default = "Password1234!"
 #}
